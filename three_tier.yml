@@ -6,7 +6,7 @@
   gather_facts: no
 
   vars_files:
-    - /root/ansible_aci/external_vars.yml
+    - /root/ansible_aci/external_vars.yaml
 
   tasks:
   - name: Create Ansible Tenant
