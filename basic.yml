@@ -125,7 +125,7 @@
       pool_type: vlan
       range_name: baremetal
       range_start: 100
-      range_end: 1000
+      range_end: 999
       allocation_mode: inherit
       state: present
 
